@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afzan
 - 👀 I’m interested in learning new things about Tech and to build my own Tech company one day
-- 🌱 I’m currently learning python programming language
+- 🌱 I’m currently learning python programming language and devOps enginer
 - 💞️ I’m looking to collaborate not decide yet!
 - 📫 How to reach me "current not on any social medi platform" I will work on that!
 - 😄 Pronouns: he/him
